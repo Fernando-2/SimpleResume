@@ -104,9 +104,9 @@ To run this application:
 
   *For any questions about this application, please contact me via the information below:*
 
-  * **GitHub:**  ydeek91
+  * **GitHub:**  Fernando-2
   
-  * **Email:**   ydeek91@yahoo.com
+  * **Email:**   Fernandorivascastillo011@gmail.com
 
 ---
   <br>
